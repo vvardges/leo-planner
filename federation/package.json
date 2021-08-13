@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "next": "^9.3.6",
+    "next": "^11.1.0",
     "node-fetch": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
